@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/packages\\common_models/melos_common_models.iml" filepath="$PROJECT_DIR$/packages\\common_models/melos_common_models.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages\\my_backend/melos_my_backend.iml" filepath="$PROJECT_DIR$/packages\\my_backend/melos_my_backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packages\\my_flutter_app/melos_my_flutter_app.iml" filepath="$PROJECT_DIR$/packages\\my_flutter_app/melos_my_flutter_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_dart_frog_and_flutter.iml" filepath="$PROJECT_DIR$/melos_dart_frog_and_flutter.iml" />
+    </modules>
+  </component>
+</project>

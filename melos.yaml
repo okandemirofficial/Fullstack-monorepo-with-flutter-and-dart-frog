@@ -1,0 +1,8 @@
+name: dart_frog_and_flutter
+
+packages:
+  - packages/**
+
+command:
+  bootstrap:
+    usePubspecOverrides: true
